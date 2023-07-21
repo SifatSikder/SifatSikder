@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F69C17&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Sifat+%F0%9F%98%83+----&repeat=false">
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Web+and+Mobile+App+Developer;Creating+captivating+digital+experiences;Software+Engineering+Student+from+IIT+DU;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Software+Engineering+Enthuasist;Creating+captivating+digital+experiences;Software+Engineering+Student+from+IIT+DU;"></a>
 </p>
 
 
