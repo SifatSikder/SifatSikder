@@ -1,5 +1,5 @@
 
-<div align="center" style="background-color: #000000; padding: 20px;">
+<div align="center" style="background-color:#000; padding: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F69C17&size=32&center=true&vCenter=true&width=500&height=60&lines=----+Hey%2C+This+is+Sifat+%F0%9F%98%83+----&repeat=false">
 </div>
 <p align="center">
