@@ -1,8 +1,14 @@
 ![Header](./github-header-image.png)
-<img align="right" alt="Coding" width="400" src="./side-image.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sifatsikder" /> </p>
+<div style="display: flex;">
+  <div style="flex: 2;">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sifatsikder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifatsikder" alt="sifatsikder" /></a> </p>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifatsikder" alt="sifatsikder" /></a> </p>
+  </div>
+  <div style="flex: 1;">
+    <img align="right" alt="Coding" width="200" src="./side-image.png">
+  </div>
+</div>
 
 - 🔭 I’m currently working on [CodeWhisperer](https://github.com/SifatSikder/CodeWhisperer-AI-Project.git)
 
