@@ -32,6 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatsikder&show_icons=true&locale=en&layout=compact&theme=darcula" alt="sifatsikder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatsikder&show_icons=true&locale=en&theme=darcula" alt="sifatsikder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatsikder&theme=darcula" alt="sifatsikder" /></p>
