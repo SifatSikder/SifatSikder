@@ -4,7 +4,7 @@ import Layout from '@/components/Layout'
 import Animation from '@/components/Animation'
 import HireMe from '@/components/HireMe'
 import { LinkArrow, ContactIcon } from '@/components/Icons'
-import ProfilePicture from "../../public/images/sifat-1.png"
+import ProfilePicture from "../../public/images/self/sifat-1.png"
 
 
 
