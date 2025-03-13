@@ -11,11 +11,8 @@
   </div>
 </div>
 
-- 🔭 I’m currently working on [CodeWhisperer](https://github.com/SifatSikder/CodeWhisperer-AI-Project.git)
 
-- 🌱 I’m currently learning **nextjs,speech to text generation and machine learning basics**
-
-- 📫 How to reach me **sikdersifat29@gmail.com**
+- 📫 How to reach me **sifatsikder2814@gmail.com**
 
 - ⚡ Fun fact **I am a late-night debugger,coffee connoisseurs,keyboard shortcut master**
 
